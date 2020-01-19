@@ -6,7 +6,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-public class TimeConversion {
+public class AjTimeConversion {
 
 	public static void main(String[] args) throws ParseException {
 
